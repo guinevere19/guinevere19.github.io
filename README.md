@@ -1,5 +1,4 @@
 # guinevere19.github.io
-====================
 
 ## Jinhee Yang
 
